@@ -55,8 +55,8 @@ console.log("Total Age: " + totalAge) // Total Age: 30
 
 // Implicit Conversion Example:
 
-let implResult = "10" * 2;  // The multiplication operator "*" forces the string "10" to be converted to a number.
-console.log("After implicit conversion: " + implResult);  // 20
+let implConvr = "10" * 2;  // The multiplication operator "*" forces the string "10" to be converted to a number.
+console.log("After implicit conversion: " + implConvr);  // 20
 
 // Explicit Conversion Example:
 let NumberString = "123"; // valid number string
